@@ -40,10 +40,9 @@ gets chomp
 
 8. Name and describe two common string methods:
 
-+ can be used to concat two strings together
-* can be used to multiply a string
-
 ```ruby
+# + can be used to concat two strings together
 'We can add' + 'strings together'
+# * can be used to multiply a string
 'Or multiply them' * 5
 ```
